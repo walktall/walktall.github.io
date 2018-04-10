@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Notes</title>
+    <link>https://walktall.github.io/posts/</link>
+    <description>Recent content in Posts on Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://walktall.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nothing for Now</title>
+      <link>https://walktall.github.io/posts/nothing-for-now/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://walktall.github.io/posts/nothing-for-now/</guid>
+      <description>想开始写些东西，然而不知道写些什么。
+以前Coding的时候碰到过许多问题，解决了，当时觉得很厉害，很高兴，过了一阵子，就忘了，如果再次碰到，难免还要想想，当初是怎么做的。
+这其实很蛋疼，看过Google的SRE介绍，里面有提到过playbook的概念，就是说，记录下来每次碰到问题的解决方法，下次再遇到，照手册来就好了。
+所以我也打算开始这样做，于是搞了这个一个地方来做笔记。
+然后，我就发现，别说解决方法了，碰到的问题，如今再让我想，都很难立马想出来一些。
+所以，现在这里什么都没有。</description>
+    </item>
+    
+  </channel>
+</rss>
