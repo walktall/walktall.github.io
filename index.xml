@@ -43,9 +43,9 @@ Resume
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://walktall.github.io/resume-en/</guid>
-      <description>Basic Information  Male 27 years old Bachelor degree in Computer Science and Technology, Beijing University of Technology E-mail: zh-@outlook.com Github: https://github.com/walktall  Skills  4 years Go experience Familiar with Docker Familiar with Kubernetes Familiar with EFK  Work Experience  Caicould
+      <description>Basic Information  Male 27 years old Bachelor degree in Computer Science and Technology, Beijing University of Technology  Skills  4 years Go experience Familiar with Docker Familiar with Kubernetes Familiar with EFK  Work Experience  Caicould
  Backend Engineer 2017.08 until now Focus on EFK (Elasticsearch + Fluentd + Kibana) stack on kubernetes  Tantan Tech
- Senior Backend Engineer 2016.03 - 2017.</description>
+ Senior Backend Engineer 2016.03 - 2017.04 (1 year and 1 month) Project: Tantan Description: Social APP Responsibilities: Backend development The main work:  Antispam solutions and backend implementations Media cloud service optimization and high availability Push service optimization Code architecture adjustment and optimization The containerization of the development environment   Nicescale Tech</description>
     </item>
     
     <item>
@@ -54,7 +54,7 @@ Resume
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://walktall.github.io/resume-cn/</guid>
-      <description>基本信息  男 27 岁 北京工业大学 计算机科学与技术 本科 邮箱：zh-@outlook.com Github: https://github.com/walktall  技能  四年Go经验 熟悉Docker 熟悉Kubernetes 熟悉EFK  工作经历  才云科技
+      <description>基本信息  男 27 岁 北京工业大学 计算机科学与技术 本科  技能  四年Go经验 熟悉Docker 熟悉Kubernetes 熟悉EFK  工作经历  才云科技
  后端工程师 2017.08 至今 基于K8S的EFK Stack (Elasticsearch + Fluentd + Kibana)  探探科技
  高级后端开发工程师 2016.03 - 2017.04（1年1个月） 项目：探探 描述：社交APP 职责：后端开发 主要工作：  反作弊的解决方案及后端实现 媒体云服务的调优和高可用 推送服务的调优 代码架构的调整和优化 开发环境的容器化   云栈科技
  后端开发工程师 2015.05 - 2016.02（9个月） 项目：cSphere 描述：Docker私有云集群管理工具 职责：后端开发 主要工作：  利用Git的Webhook，实现Docker镜像自动构建并Push至私有Registry 实现基于Docker Swarm的自定制Docker Compose 基于Prometheus，实现容器与主机监控报警功能 项目日志审计功能的设计与开发 负责代码审查与合并   暖暖游戏</description>
