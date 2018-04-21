@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://hzh.moe/posts/play-with-tanakh/</loc>
+    <lastmod>2018-04-21T19:03:26+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hzh.moe/about/</loc>
     <lastmod>2018-04-10T00:00:00+00:00</lastmod>
   </url>
@@ -29,13 +34,13 @@
   
   <url>
     <loc>http://hzh.moe/</loc>
-    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-21T19:03:26+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hzh.moe/posts/</loc>
-    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-21T19:03:26+08:00</lastmod>
     <priority>0</priority>
   </url>
   

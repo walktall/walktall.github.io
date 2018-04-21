@@ -6,10 +6,25 @@
     <description>Recent content in Posts on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 10 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Apr 2018 19:03:26 +0800</lastBuildDate>
     
 	<atom:link href="http://hzh.moe/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Play With Tanakh</title>
+      <link>http://hzh.moe/posts/play-with-tanakh/</link>
+      <pubDate>Sat, 21 Apr 2018 19:03:26 +0800</pubDate>
+      
+      <guid>http://hzh.moe/posts/play-with-tanakh/</guid>
+      <description>mattn大神发了一个莫名很萌的脚本
+#!/bin/bash function stop() { tput cnorm echo exit } trap stop SIGINT tput civis while true; do while read line; do echo -e -n &amp;quot;\r$line\x1b[K&amp;quot; sleep 0.2 done &amp;lt;&amp;lt;&#39;EOF&#39; (´･_･`)´･_･`) (´･_･`)_･`) (´･_･`)`) ((´･_･`) (´･(´･_･`) (´･_(´･_･`) (´･_･`)´･_･`) (´･_･`)_･`) (´･_･`)`) (´･_･`)) ((´･_･`) (´･(´･_･`) (´･_(´･_･`) EOF done  这里面有些bash的东西，平时不怎么用到，查过后才知道是什么意思，这里稍微做下记录。
+tput tput cnorm可以用来显示cursor。
+tput civis可以用来隐藏cursor。
+trap stop SIGINT trap用来给SIGINT绑定一个handler，这里就是stop这个函数。
+echo -e -n &amp;quot;\r$line\x1b[K&amp;quot; -e用来开启解释\后的转义。
+\r (Carriage Return) - moves the cursor to the beginning of the line without advancing to the next line</description>
+    </item>
     
     <item>
       <title>Nothing for Now</title>
