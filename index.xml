@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes</title>
-    <link>http://hzh.moe/</link>
+    <link>https://hzh.moe/</link>
     <description>Recent content on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 21 Apr 2018 19:03:26 +0800</lastBuildDate>
     
-	<atom:link href="http://hzh.moe/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hzh.moe/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Play With Tanakh</title>
-      <link>http://hzh.moe/posts/play-with-tanakh/</link>
+      <link>https://hzh.moe/posts/play-with-tanakh/</link>
       <pubDate>Sat, 21 Apr 2018 19:03:26 +0800</pubDate>
       
-      <guid>http://hzh.moe/posts/play-with-tanakh/</guid>
+      <guid>https://hzh.moe/posts/play-with-tanakh/</guid>
       <description>mattn大神发了一个莫名很萌的脚本
 #!/bin/bash function stop() { tput cnorm echo exit } trap stop SIGINT tput civis while true; do while read line; do echo -e -n &amp;quot;\r$line\x1b[K&amp;quot; sleep 0.2 done &amp;lt;&amp;lt;&#39;EOF&#39; (´･_･`)´･_･`) (´･_･`)_･`) (´･_･`)`) ((´･_･`) (´･(´･_･`) (´･_(´･_･`) (´･_･`)´･_･`) (´･_･`)_･`) (´･_･`)`) (´･_･`)) ((´･_･`) (´･(´･_･`) (´･_(´･_･`) EOF done  这里面有些bash的东西，平时不怎么用到，查过后才知道是什么意思，这里稍微做下记录。
 tput tput cnorm可以用来显示cursor。
@@ -28,10 +28,10 @@ echo -e -n &amp;quot;\r$line\x1b[K&amp;quot; -e用来开启解释\后的转义�
     
     <item>
       <title>About</title>
-      <link>http://hzh.moe/about/</link>
+      <link>https://hzh.moe/about/</link>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hzh.moe/about/</guid>
+      <guid>https://hzh.moe/about/</guid>
       <description>主要用来记一些平时学习工作遇到的东西。
 大概还会被用来吐槽。
 Resume
@@ -40,10 +40,10 @@ Resume
     
     <item>
       <title>Nothing for Now</title>
-      <link>http://hzh.moe/posts/nothing-for-now/</link>
+      <link>https://hzh.moe/posts/nothing-for-now/</link>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hzh.moe/posts/nothing-for-now/</guid>
+      <guid>https://hzh.moe/posts/nothing-for-now/</guid>
       <description>想开始写些东西，然而不知道写些什么。
 以前Coding的时候碰到过许多问题，解决了，当时觉得很厉害，很高兴，过了一阵子，就忘了，如果再次碰到，难免还要想想，当初是怎么做的。
 这其实很蛋疼，看过Google的SRE介绍，里面有提到过playbook的概念，就是说，记录下来每次碰到问题的解决方法，下次再遇到，照手册来就好了。
@@ -54,10 +54,10 @@ Resume
     
     <item>
       <title>Resume</title>
-      <link>http://hzh.moe/resume-en/</link>
+      <link>https://hzh.moe/resume-en/</link>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hzh.moe/resume-en/</guid>
+      <guid>https://hzh.moe/resume-en/</guid>
       <description>Basic Information  Male 27 years old Bachelor degree in Computer Science and Technology, Beijing University of Technology  Skills  4 years Go experience Familiar with Docker Familiar with Kubernetes Familiar with EFK  Work Experience  Caicould
  Backend Engineer 2017.08 until now Focus on EFK (Elasticsearch + Fluentd + Kibana) stack on kubernetes  Tantan Tech
  Senior Backend Engineer 2016.03 - 2017.04 (1 year and 1 month) Project: Tantan Description: Social APP Responsibilities: Backend development The main work:  Antispam solutions and backend implementations Media cloud service optimization and high availability Push service optimization Code architecture adjustment and optimization The containerization of the development environment   Nicescale Tech</description>
@@ -65,10 +65,10 @@ Resume
     
     <item>
       <title>简历</title>
-      <link>http://hzh.moe/resume-cn/</link>
+      <link>https://hzh.moe/resume-cn/</link>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hzh.moe/resume-cn/</guid>
+      <guid>https://hzh.moe/resume-cn/</guid>
       <description>基本信息  男 27 岁 北京工业大学 计算机科学与技术 本科  技能  四年Go经验 熟悉Docker 熟悉Kubernetes 熟悉EFK  工作经历  才云科技
  后端工程师 2017.08 至今 基于K8S的EFK Stack (Elasticsearch + Fluentd + Kibana)  探探科技
  高级后端开发工程师 2016.03 - 2017.04（1年1个月） 项目：探探 描述：社交APP 职责：后端开发 主要工作：  反作弊的解决方案及后端实现 媒体云服务的调优和高可用 推送服务的调优 代码架构的调整和优化 开发环境的容器化   云栈科技

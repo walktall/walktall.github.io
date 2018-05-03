@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://hzh.moe/posts/play-with-tanakh/</loc>
+    <loc>https://hzh.moe/posts/play-with-tanakh/</loc>
     <lastmod>2018-04-21T19:03:26+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hzh.moe/about/</loc>
+    <loc>https://hzh.moe/about/</loc>
     <lastmod>2018-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hzh.moe/posts/nothing-for-now/</loc>
+    <loc>https://hzh.moe/posts/nothing-for-now/</loc>
     <lastmod>2018-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hzh.moe/resume-en/</loc>
+    <loc>https://hzh.moe/resume-en/</loc>
     <lastmod>2018-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hzh.moe/resume-cn/</loc>
+    <loc>https://hzh.moe/resume-cn/</loc>
     <lastmod>2018-04-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hzh.moe/categories/</loc>
+    <loc>https://hzh.moe/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hzh.moe/</loc>
-    <lastmod>2018-04-21T19:03:26+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://hzh.moe/posts/</loc>
+    <loc>https://hzh.moe/</loc>
     <lastmod>2018-04-21T19:03:26+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hzh.moe/tags/</loc>
+    <loc>https://hzh.moe/posts/</loc>
+    <lastmod>2018-04-21T19:03:26+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hzh.moe/tags/</loc>
     <priority>0</priority>
   </url>
   

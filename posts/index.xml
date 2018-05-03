@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Notes</title>
-    <link>http://hzh.moe/posts/</link>
+    <link>https://hzh.moe/posts/</link>
     <description>Recent content in Posts on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 21 Apr 2018 19:03:26 +0800</lastBuildDate>
     
-	<atom:link href="http://hzh.moe/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hzh.moe/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Play With Tanakh</title>
-      <link>http://hzh.moe/posts/play-with-tanakh/</link>
+      <link>https://hzh.moe/posts/play-with-tanakh/</link>
       <pubDate>Sat, 21 Apr 2018 19:03:26 +0800</pubDate>
       
-      <guid>http://hzh.moe/posts/play-with-tanakh/</guid>
+      <guid>https://hzh.moe/posts/play-with-tanakh/</guid>
       <description>mattn大神发了一个莫名很萌的脚本
 #!/bin/bash function stop() { tput cnorm echo exit } trap stop SIGINT tput civis while true; do while read line; do echo -e -n &amp;quot;\r$line\x1b[K&amp;quot; sleep 0.2 done &amp;lt;&amp;lt;&#39;EOF&#39; (´･_･`)´･_･`) (´･_･`)_･`) (´･_･`)`) ((´･_･`) (´･(´･_･`) (´･_(´･_･`) (´･_･`)´･_･`) (´･_･`)_･`) (´･_･`)`) (´･_･`)) ((´･_･`) (´･(´･_･`) (´･_(´･_･`) EOF done  这里面有些bash的东西，平时不怎么用到，查过后才知道是什么意思，这里稍微做下记录。
 tput tput cnorm可以用来显示cursor。
@@ -28,10 +28,10 @@ echo -e -n &amp;quot;\r$line\x1b[K&amp;quot; -e用来开启解释\后的转义�
     
     <item>
       <title>Nothing for Now</title>
-      <link>http://hzh.moe/posts/nothing-for-now/</link>
+      <link>https://hzh.moe/posts/nothing-for-now/</link>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://hzh.moe/posts/nothing-for-now/</guid>
+      <guid>https://hzh.moe/posts/nothing-for-now/</guid>
       <description>想开始写些东西，然而不知道写些什么。
 以前Coding的时候碰到过许多问题，解决了，当时觉得很厉害，很高兴，过了一阵子，就忘了，如果再次碰到，难免还要想想，当初是怎么做的。
 这其实很蛋疼，看过Google的SRE介绍，里面有提到过playbook的概念，就是说，记录下来每次碰到问题的解决方法，下次再遇到，照手册来就好了。
